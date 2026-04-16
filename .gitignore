@@ -26,4 +26,4 @@ env.bak/
 venv.bak/
 
 # Project specific
-output/
+# output/
